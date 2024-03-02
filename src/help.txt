@@ -1,0 +1,4 @@
+ng add @angular-eslint/schematics@14
+
+npm i @angular-eslint/schematics --force
+
